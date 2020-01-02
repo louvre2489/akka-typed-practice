@@ -1,0 +1,48 @@
+# general
+*~
+*.class
+*.log
+tmp
+dump
+*.p12
+tags
+
+# SBT
+dist
+project/boot
+project/target
+project/plugins/target
+target
+.target
+
+# Play
+logs
+RUNNING_PID
+
+# IDE
+.idea
+.idea_modules
+
+# Scala-IDE specific
+.scala_dependencies
+.project
+.settings
+.cache-main
+.cache-tests
+
+# node.js
+# Compiled binary addons
+build/Release
+ 
+# Dependency directories
+node_modules
+jspm_packages
+ 
+# Optional npm cache directory
+.npm
+ 
+# Optional REPL history
+.node_repl_history
+
+# Elm
+elm-stuff
